@@ -5,6 +5,7 @@ FATENIT🪽
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ma Page Vidéo</title>
 
+    <!-- Google Analytics (déjà présent) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-NR6N2SFPSD"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -12,6 +13,10 @@ FATENIT🪽
       gtag('js', new Date());
       gtag('config', 'G-NR6N2SFPSD');
     </script>
+
+    <!-- Google AdSense (ajouté) -->
+    <script async src="https://pagead2.googletagmanager.com/pagead/js/adsbygoogle.js?client=ca-pub-9440795982150798"
+     crossorigin="anonymous"></script>
 
     <style>
         body {
@@ -114,6 +119,7 @@ FATENIT🪽
     </div>
 
     <div class="video-container">
+        <!-- Tes vidéos restent exactement les mêmes -->
         <!-- Solo Leveling -->
         <div class="video-card">
             <img src="https://raw.githubusercontent.com/fatenit/open/7a9b81ff379b9c10b20945e26ce476d3dff0d3f1/images.jpeg" alt="Solo Leveling">
